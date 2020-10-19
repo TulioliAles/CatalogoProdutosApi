@@ -1,0 +1,5 @@
+C:\work\aspnet\CatalogoProdutosApi\obj\Debug\netcoreapp3.1\CatalogoProdutosApi.csprojAssemblyReference.cache
+C:\work\aspnet\CatalogoProdutosApi\obj\Debug\netcoreapp3.1\CatalogoProdutosApi.AssemblyInfoInputs.cache
+C:\work\aspnet\CatalogoProdutosApi\obj\Debug\netcoreapp3.1\CatalogoProdutosApi.AssemblyInfo.cs
+C:\work\aspnet\CatalogoProdutosApi\obj\Debug\netcoreapp3.1\CatalogoProdutosApi.csproj.CoreCompileInputs.cache
+C:\work\aspnet\CatalogoProdutosApi\obj\Debug\netcoreapp3.1\CatalogoProdutosApi.MvcApplicationPartsAssemblyInfo.cache
